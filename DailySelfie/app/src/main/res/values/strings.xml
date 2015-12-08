@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DailySelfie</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_camera">Take photo</string>
+    <string name="action_deleteAll">Delete all photos</string>
+    <string name="action_cancel_alarm">Cancel reminders</string>
+    <string name="action_help">Help</string>
+
+    <string name="footer_text">No Photos to Display</string>
+
+    <string name="instructions_short">Tap to view selection.\n\nLong tap to delete selection.</string>
+    <string name="instructions_long">In the photo list view:\nTap the camera icon to enter the camera window.\nTap an existing photo entry to view a full-screen image.\nLong tap an existing photo entry to delete the photo.\n\nIn the photo view window:\nUse the Back button to return to the photo list.
+    </string>
+</resources>
